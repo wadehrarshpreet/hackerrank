@@ -1,4 +1,5 @@
 # HackerRank
 
-Mine Solutions of problems in HackerRank
-Mostly in JavaScript or CPP14
+Solutions either in JavaScript or CPP14
+
+https://wadehrarshpreet.com
